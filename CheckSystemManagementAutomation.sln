@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSystemManagementAutomation", "UsingSystemManagementAutomation\UsingSystemManagementAutomation.csproj", "{FFBF20F2-5021-4A32-8BFB-97E556A7E078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMicrosoftPowerShellSDK", "UsingMicrosoftPowerShellSDK\UsingMicrosoftPowerShellSDK.csproj", "{ADEC5C45-BBD8-4D02-957C-D443F901F656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBF20F2-5021-4A32-8BFB-97E556A7E078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBF20F2-5021-4A32-8BFB-97E556A7E078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBF20F2-5021-4A32-8BFB-97E556A7E078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBF20F2-5021-4A32-8BFB-97E556A7E078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADEC5C45-BBD8-4D02-957C-D443F901F656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEC5C45-BBD8-4D02-957C-D443F901F656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEC5C45-BBD8-4D02-957C-D443F901F656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEC5C45-BBD8-4D02-957C-D443F901F656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
